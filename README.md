@@ -46,19 +46,20 @@ Aulas no programa atualizado da disciplina:
 11. Funções
 12. List Comprehensions
 
-📙 [Introdução a Visão Computacional](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1.ipynb) 
+📙 [Introdução e Listas](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1.ipynb) 
+
 
 ### Desafios
 
-📘 [Strings](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-1) 
+📘 [Strings](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-1) 
 
-📘 [Funções](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-2) 
+📘 [Funções](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-2) 
 
-📘 [List Comprehensions 1](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-3) 
+📘 [List Comprehensions 1](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-3) 
 
-📘 [List Comprehensions 2](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-4) 
+📘 [List Comprehensions 2](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-4) 
 
-📘 [Funções e NLP](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-5) 
+📘 [Funções e NLP](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-1-introducao-listas/aula-1-desafio-5) 
 
 ## Manipulação de imagens (Aula 2)
 
