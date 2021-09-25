@@ -9,7 +9,7 @@
 
 Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-gestao-por-processos/).
 
-![alt text](bpm.jpg)
+![alt text](/bpm.jpg)
 
 Este repositório reúne todos os notebooks, imagens, modelos e demais materiais necessário para a condução das aulas e revisão das mesmas.
 
