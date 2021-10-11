@@ -90,6 +90,45 @@ Aulas no programa atualizado da disciplina:
 📘 [Expressões Regulares](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-2-colecoes-excecoes-datas-regex/aula-2-desafio-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-2-colecoes-excecoes-datas-regex/aula-2-desafio-7.ipynb) 
 
 
+## Aula 3
+
+1. Matrizes
+2. Arrays
+3. Introdução a dataframes
+
+📙 [Aula 3](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3.ipynb) 
+
+
+### Desafios
+
+📘 [Matrizes](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3-desafio-1.ipynb) 
+
+📘 [Normalização](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-3-numpy-pandas/aula-3-desafio-2.ipynb) 
+
+## Aula 4
+
+1. Manipulando dataframes
+2. Pré-processamento
+3. Limpeza de Dados
+4. Acessando dados externos
+5. Agrupamento de dados
+
+📙 [Aula 4](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4.ipynb) 
+
+
+### Desafios
+
+📘 [Filtros](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-1.ipynb) 
+
+📘 [Imputação dedDados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) 
+
+📘 [Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) 
+
+📘 [Mapeamento](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-4.ipynb) 
+
+📘 [Agrupamentos](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) 
+
+
 ## Capstones
 
 Projetos de conclusão da disciplina aplicados.
