@@ -129,9 +129,8 @@ Aulas no programa atualizado da disciplina:
 📘 [Agrupamentos](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) 
 
 
-## Capstones
+## Capstone
 
-Projetos de conclusão da disciplina aplicados.
+Projetos de conclusão da disciplina.
 
-1. [Análise de Imagens Médicas](https://github.com/michelpf/fiap-ml-visao-computacional-analise-imagens-medicas)
-2. [Auditoria de Vídeo](https://github.com/michelpf/fiap-ml-visao-computacional-auditoria-video)
+[Previsão de preços de automóveis](https://github.com/michelpf/fiap-bpm-python-dados-ia-estimativa-precos-automoveis)
