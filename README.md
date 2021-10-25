@@ -129,6 +129,43 @@ Aulas no programa atualizado da disciplina:
 📘 [Agrupamentos](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) 
 
 
+## Aula 5
+
+1. Visualização de dados
+2. Histogramas
+3. Gráficos de barras, colunas, linhas e dispersão
+4. Linhas de tendência (regressão)
+5. Mapas de calor
+
+📙 [Aula 5](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5.ipynb) 
+
+
+### Desafios
+
+📘 [Histogramas](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-1.ipynb) 
+
+📘 [Outliers](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-2.ipynb) 
+
+📘 [Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-3.ipynb) 
+
+📘 [Mapa de calor](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-4.ipynb) 
+
+
+## Aula 6
+
+1. Abordagens de problemas de machine learning
+2. Machine learning workflow
+3. Preparação de dados
+4. Treinamento
+5. Avaliação de indicadores de sucesso do modelo
+
+📙 [Aula 6](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6.ipynb) 
+
+
+### Desafio
+
+📘 [Preparação de dados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) 
+
 ## Capstone
 
 Projetos de conclusão da disciplina.
