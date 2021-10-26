@@ -120,9 +120,9 @@ Aulas no programa atualizado da disciplina:
 
 📘 [1. Filtros](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-1.ipynb) 
 
-📘 [2. Imputação dedDados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) 
+📘 [2. Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-2.ipynb) 
 
-📘 [3. Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) 
+📘 [3. Imputação de dados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-3.ipynb) 
 
 📘 [4. Mapeamento](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-4.ipynb) 
 
