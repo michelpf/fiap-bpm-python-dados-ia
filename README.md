@@ -161,10 +161,27 @@ Aulas no programa atualizado da disciplina:
 
 📙 [Aula 6](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6.ipynb) 
 
+📘 [1. Análise e Imputação de Dados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) 
+
+
+## Aula 7: Web scrapping
+
+1. Introdução a web scraping
+2. Coletando dados de APIs utilizando Requests
+3. Analisando páginas estáticas utilizando Beautiful Soup
+4. Automatizando coletas por navegador utilizando Selenium
+
+
+📙 [Aula 7](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7.ipynb) 
+
 
 ### Desafio
 
-📘 [1. Preparação de dados](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-6-machine-learning-pipeline/aula-6-desafio-1.ipynb) 
+📘 [1. Análise de Preços de Imóveis](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-1.ipynb) 
+
+📘 [2. Coleta de Dados de Produtos](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-2.ipynb) 
+
+📘 [2. Coleta de Notícias](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-7-webscraping/aula-7-desafio-3.ipynb) 
 
 ## Capstone
 
