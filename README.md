@@ -143,9 +143,7 @@ Aulas no programa atualizado da disciplina:
 
 📘 [1. Análise de Votação](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-1.ipynb) 
 
-📘 [2. Análise de Abstenções e Taxa de Votaçã](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) 
-
-📘 [3. Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-3.ipynb) 
+📘 [2. Análise de Abstenções e Taxa de Votação](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) 
 
 
 ## Aula 6: Abordagem de problemas de machine learning
