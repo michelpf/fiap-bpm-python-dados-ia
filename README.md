@@ -129,26 +129,23 @@ Aulas no programa atualizado da disciplina:
 📘 [5. Agrupamentos](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-4-estruturas-de-dados-avancados/aula-4-desafio-5.ipynb) 
 
 
-## Aula 5: Visualização de dados
+## Aula 5: Big Data com PySpark
 
-1. Visualização de dados
-2. Histogramas
-3. Gráficos de barras, colunas, linhas e dispersão
-4. Linhas de tendência (regressão)
-5. Mapas de calor
+1. Fundamentos
+2. Instalação
+3. Dataframes Spark
+4. Spark SQL
 
-📙 [Aula 5](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5.ipynb) 
+📙 [Aula 5](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5.ipynb) 
 
 
 ### Desafios
 
-📘 [1. Histogramas](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-1.ipynb) 
+📘 [1. Análise de Votação](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-1.ipynb) 
 
-📘 [2. Outliers](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-2.ipynb) 
+📘 [2. Análise de Abstenções e Taxa de Votaçã](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-2.ipynb) 
 
-📘 [3. Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-3.ipynb) 
-
-📘 [4. Mapa de calor](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-visualizacao-de-dados/aula-5-desafio-4.ipynb) 
+📘 [3. Correlações](https://github.com/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-bpm-python-dados-ia/blob/main/aula-5-big-data/aula-5-desafio-3.ipynb) 
 
 
 ## Aula 6: Abordagem de problemas de machine learning
